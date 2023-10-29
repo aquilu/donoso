@@ -1,5 +1,6 @@
-streamlit # Puede ser necesario actualizar a la versión más reciente.
-openai # Puede ser necesario actualizar a la versión más reciente.
-langchain  # Puede ser necesario actualizar a la versión más reciente.
-faiss-cpu # Puede ser necesario actualizar a la versión más reciente. Usa faiss-gpu si necesitas soporte para GPU.
-numpy # Puede ser necesario actualizar a la versión más reciente.
+openai
+langchain
+faiss-cpu
+tiktoken
+unstructured
+markdown
